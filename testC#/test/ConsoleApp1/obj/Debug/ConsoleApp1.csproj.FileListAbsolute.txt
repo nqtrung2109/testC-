@@ -1,0 +1,7 @@
+E:\trainC#\testC#\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\trainC#\testC#\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\trainC#\testC#\test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\trainC#\testC#\test\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\trainC#\testC#\test\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\trainC#\testC#\test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\trainC#\testC#\test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
