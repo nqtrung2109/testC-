@@ -1,17 +1,19 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace AppConsole1 
+namespace ConsoleApp1
 {
-    class Progaram 
+    internal class Program
     {
-        static void Main (string[] args)
+        private static void Main(string[] args)
         {
-                Console.WriteLine("Ten toi la Nguyen Quang Trung");
-                Console.WriteLine("Sinh nam 2000");
-                Console.WriteLine("Toi la sinh vien DHBKHN");
-                Console.ReadKey();
+            Console.WriteLine("Ten toi la Nguyen Quang Trung");
+            Console.WriteLine("Sinh nam 2000");
+            Console.WriteLine("Toi la sinh vien DHBKHN");
+            Console.ReadKey();
         }
     }
 }
-
-

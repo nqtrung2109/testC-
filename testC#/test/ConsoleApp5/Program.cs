@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
@@ -20,7 +20,7 @@ namespace ConsoleApp5
             b = int.Parse(Console.ReadLine());
             Console.WriteLine("Số thứ 3: ");
             c = int.Parse(Console.ReadLine());
-            if (a>b)
+            if (a > b)
             {
                 broken = a;
             }
@@ -28,7 +28,7 @@ namespace ConsoleApp5
             {
                 broken = b;
             }
-            if (broken>c)
+            if (broken > c)
             {
                 Console.WriteLine("Số max là {0}", broken);
             }
